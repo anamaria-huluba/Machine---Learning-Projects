@@ -71,4 +71,4 @@ After plotting the graph, show it using plt.show().
 
 Ideally, the graph will look the same no matter how you split up the training set and test set. This data set is fairly small, so there is slightly more variance than usual.
 
-![The output visualisation]()
+![The output visualisation](file:///C:/Users/annie/OneDrive/Desktop/Figure_1.png)
