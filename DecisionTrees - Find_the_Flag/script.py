@@ -39,7 +39,7 @@ print(score)
 # Output score:
 # 0.3469387755102041
 
-# Tuning the Model(10-)
+# Tuning the Model(10-13)
 
 # checkpoint 10
 for i in range(1,20):
